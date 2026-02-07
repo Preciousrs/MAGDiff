@@ -16,7 +16,7 @@ conda activate MAGDiff
 ```
 3.Download the pretrained `Realistic_Vision_V4.0_noVAE`, SD 1.5 `image_encoder` checkpoint and put it in `models/`.
 
-##Training
+## Training
 Run:
 ```
 sh train.sh
