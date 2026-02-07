@@ -23,4 +23,7 @@ sh train.sh
 ```
 
 ## Inference
-
+jupyter notebook:
+```
+infer.ipynb
+```
