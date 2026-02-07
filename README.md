@@ -1,6 +1,6 @@
 # MAGDiff: A Synergistic Multi-Attribute Guided Diffusion Framework for Personalized Fashion Garment Generation
 ## Overview
- [![MAGDiff Overview]](overview.pdf)
+[View the overview figure](overview.pdf)
  
 ## Installation
 1.Clone the repository
