@@ -1,6 +1,7 @@
 # MAGDiff: A Synergistic Multi-Attribute Guided Diffusion Framework for Personalized Fashion Garment Generation
 ## Overview
  <img src="https://github.com/Preciousrs/MTTV/blob/main/fakeddit_s.png" width="800" height="300" /> 
+ 
 ## Installation
 1.Clone the repository
 ```
