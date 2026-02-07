@@ -21,3 +21,6 @@ Run:
 ```
 sh train.sh
 ```
+
+## Inference
+
